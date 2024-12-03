@@ -1,7 +1,0 @@
-exports = {
-    plugins: {
-      tailwindcss: {},
-      autoprefixer: {},
-    },
-  };
-  
